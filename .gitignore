@@ -1,0 +1,19 @@
+# Chặn tuyệt đối các file thiết kế HFSS, script dựng hình và dữ liệu thô
+*.aedt
+*.aedtresults/
+*.lock
+*.semaphore
+*.py
+*.pyc
+*.csv
+*.log
+*.txt
+*.dxf
+*.step
+*.stp
+*.igs
+*.iges
+AutoTest/
+__pycache__/
+.DS_Store
+Thumbs.db
