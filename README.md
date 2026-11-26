@@ -1,6 +1,6 @@
 # Compact Circular Polarized Antenna for RFID Reader Application
 
-## . Bài toán & Quy chuẩn
+##  Bài toán & Quy chuẩn
 
 - **Tần số trung tâm:** **`925.00 MHz`** (UHF RFID / LPWAN sub-GHz, `λ₀ ≈ 324.1 mm`).
 - **Giới hạn thể tích:** **`60.0 × 60.0 × 40.0 mm`**.
